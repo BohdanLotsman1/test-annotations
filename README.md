@@ -6,9 +6,9 @@ The main purpose is to see your code structure, code quality, and approach in ge
 
 ## Getting Started
 
-### Fake server
+### Mock server
 
-The server implementation is required. 
+Use [json-server](https://github.com/typicode/json-server) to make simple CRUD mock server.
 
 It basically creates the following endpoints:
 

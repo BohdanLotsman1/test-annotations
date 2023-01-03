@@ -18,10 +18,14 @@ POST v1/annotations
 DELETE v1/annotations/{id}
 ```
 
-**Make it running:**
+**Install and launch it:**
 
-- Run `npm i -g json-server`
-- Run `json-server --watch db.json`
+```
+npm i -g json-server
+json-server --watch db.json
+```
+
+Now you should have a backend to send your requests to.
 
 ### Mockup
 

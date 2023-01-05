@@ -1,0 +1,18 @@
+.listItem {
+  height: 32px;
+  list-style: none;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  user-select: none;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: .2s all ease;
+  padding: 0 8px;
+  margin-top: 8px;
+}
+
+.render {
+  border-color: red;
+  box-shadow: 0 0 4px #f008;
+}
